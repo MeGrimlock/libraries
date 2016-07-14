@@ -1,0 +1,56 @@
+#######################################
+# Syntax X_Plane_output
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ArdSim	KEYWORD1
+BOARD_TYPE	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ArdSimStart	KEYWORD2
+ArdSimScan	KEYWORD2
+InputMatrix	KEYWORD2
+AnalogIn	KEYWORD2
+AnalogSwitch	KEYWORD2
+EncoderPin	KEYWORD2
+EncoderPort	KEYWORD2
+RepeatBtn	KEYWORD2
+SendToSlave	KEYWORD2
+ReadInput	KEYWORD2
+EncModeBtn	KEYWORD2
+servoGauge	KEYWORD2
+GetData	KEYWORD2
+NewData	KEYWORD2
+LEDout	KEYWORD2
+Gauge	KEYWORD2
+SimInput 	KEYWORD2
+OutputPin	KEYWORD2
+InputPin	KEYWORD2
+XPDref	KEYWORD2
+XPCmnd	KEYWORD2
+XPMenu	KEYWORD2
+StepGauge	KEYWORD2
+StepperGauges	KEYWORD2
+######################################
+# Instances (KEYWORD2)
+#######################################
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAC_ADR	LITERAL1
+ARDUINO_IP	LITERAL1
+XPLANE_IP	LITERAL1
+ARDSIM_PORT	LITERAL1
+HOLD	LITERAL1
+STATIC	LITERAL1
+ON	LITERAL1
+OFF	LITERAL1
+MEGA	LITERAL1
+UNO	LITERAL1
+NOINPUT	LITERAL1
+
